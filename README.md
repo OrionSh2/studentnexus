@@ -26,12 +26,6 @@ Our web-based application is user-friendly and easy to use. You can access all t
 - Generate attendance reports to identify patterns and trends
 - Send automatic reminders to students who have missed classes
 
-### Grading
-
-- Assign and track grades for each course
-- Generate grade reports to identify areas of improvement
-- Automatically calculate final grades based on attendance, participation, and assignments
-
 ### Reports
 
 - Generate reports on student progress and course completion
